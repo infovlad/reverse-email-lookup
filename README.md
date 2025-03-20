@@ -1,7 +1,7 @@
 # Reverse email lookup — ReverseMails API
 
-## Try the Free Demo
-🚀 **[Try a Free Reverse Email Lookup](https://www.reversemails.com?utm_source=github&utm_medium=readme&utm_campaign=free_demo)** – Test our service with a free lookup and see how it works!
+## Demo
+🚀 **[Try a Free Reverse Email Lookup here](https://www.reversemails.com?utm_source=github&utm_medium=readme&utm_campaign=free_demo)** – Test our service with a free lookup and see how it works!
 
 ![Reverse Emails](./hero.png)
 
