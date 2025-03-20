@@ -1,10 +1,10 @@
-# Reverse Emails API
+# Reverse email lookup — ReverseMails API
 
 ## Try the Free Demo
-🚀 **[Try a Free Email Lookup](https://www.reversemails.com/demo)** – Test our service with a free lookup and see how it works!
+🚀 **[Try a Free Reverse Email Lookup](https://www.reversemails.com/demo)** – Test our service with a free lookup and see how it works!
 
 ## Introduction
-The **Reverse Emails API** is a powerful service that allows you to perform reverse email lookups to find LinkedIn profiles associated with a given email address. This API is designed for developers, businesses, and researchers who need to enrich their contact data with LinkedIn profile information.
+The **ReverseMails API** is a powerful service that allows you to perform reverse email lookups to find LinkedIn profiles associated with a given email address. This API is designed for developers, businesses, and researchers who need to enrich their contact data with LinkedIn profile information.
 
 ### Features:
 - Secure HTTPS requests
@@ -35,7 +35,7 @@ https://api.reversemails.com/v1/lookup/?email=example@example.com&apikey=YOUR_AP
 If your API key has been compromised, you can reset it through your account settings.
 
 ### Making Requests
-You can make a request to the Reverse Emails API using `curl`:
+You can make a request to the ReverseMails API using `curl`:
 
 ```sh
 curl -L 'https://api.reversemails.com/v1/lookup/?email=example@example.com&apikey=YOUR_API_KEY' \
